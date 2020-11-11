@@ -202,7 +202,7 @@ endef
 TARGET_DEVICES += tplink_tl-wa901nd-v3
 
 define Device/tplink_tl-wa901nd-v4
-  $(Device/tplink-4mlzma)
+  $(Device/tplink-16mlzma)
   SOC := tp9343
   DEVICE_MODEL := TL-WA901ND
   DEVICE_VARIANT := v4

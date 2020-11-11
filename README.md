@@ -85,3 +85,9 @@ For a list of supported devices see the [OpenWrt Hardware Database](https://open
 ## License
 
 OpenWrt is licensed under GPL-2.0
+
+## Changed or new targets
+
+| Target | Original target | Modification |
+| --- | --- | --- |
+| `tplink_tl-wa901nd-v4` | `tplink_tl-wa901nd-v4` | 16 MB flash |
